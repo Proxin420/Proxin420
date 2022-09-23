@@ -2,6 +2,8 @@
 
 **`Just another Programmer`**
 
+<a href="https://proxin420.github.io/links/">My website</a>
+
 I'm a 14 yo solo developer from norway that has interests in programming and computers in general
 
 <p>
