@@ -7,7 +7,7 @@
 I'm a 14 yo solo developer from norway that has interests in programming and computers in general
 
 <p>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+      <a href="https://github.com/Proxin420?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Proxin420?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
 
